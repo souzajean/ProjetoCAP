@@ -1,0 +1,11 @@
+{
+    "Parceiros": [
+      { "ID": "1", "nome": "Parceiro A" },
+      { "ID": "2", "nome": "Parceiro B" }
+    ],
+    "Produtos": [
+      { "ID": "1", "nome": "Produto 1", "valor": 100.00, "parceiro_ID": "1" },
+      { "ID": "2", "nome": "Produto 2", "valor": 200.00, "parceiro_ID": "2" }
+    ]
+  }
+  
